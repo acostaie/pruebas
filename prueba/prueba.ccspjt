@@ -1,0 +1,22 @@
+[PROJECT]
+Target=prueba.hex
+Processor_Text=PIC16F887
+CCSVerions=5.005d
+Compiler=PCM
+CCSVersion=5.005d
+[Target Data]
+FileList=prueba.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\JavierC\prueba\prueba]
+Type=4
+[mru-list]
+1=prueba.c
+[Opened Files]
+1=prueba.c
+2=
+[prueba.c]
+Type=4
+[Units]
+Count=1
+1=prueba (main)
