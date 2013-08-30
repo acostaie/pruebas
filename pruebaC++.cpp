@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     cin>>tipo;
     //otra linea
     //un cambio mas 
-   
+   //otro intento
            
          if(tipo==1)
             {
