@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
    
     int n,m,res,sobra,tipo;
      
-    
+    //linea de prueba
     cout<<"Selecciona el tipo de operacion: \n";
     cout<<"1.-Suma\n";
     cout<<"2.-Resta\n";
